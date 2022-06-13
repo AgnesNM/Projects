@@ -15,7 +15,7 @@ As we went along, we actually realized we could work towards participating in th
 In the meantime, my goal is to study some Atlassian Forge use cases and build something with Forge
 
 #### Atlassian Forge Gantt Chart
-<https://u.pcloud.link/publink/show?code=XZnFDzVZm4hIDn7N5MVAtJ08UCTEyXQEgxN7>
+<https://docs.google.com/spreadsheets/d/e/2PACX-1vRsSJtuAHCVrVfxvuZXodX_ySpGpvclMaPDp1TM3coLmjCkhKmPV1ydlfyigiyEgBetHWm48qPSxotR/pubhtml?gid=1042532372&single=true>
 
 ## Project 2 - Learning Python
 
