@@ -21,7 +21,7 @@ In the meantime, my goal is to study some Atlassian Forge use cases and build so
 
 I am following a Udemy course as a Python refresher. 
 
-<https://docs.google.com/spreadsheets/d/1LwpE2NPmgc38idT9xfhq6lPfE22ZCR4MSx40_xpFbeY/edit?usp=sharing>
+<https://docs.google.com/spreadsheets/d/e/2PACX-1vSkAMVPFPJYULv9RT0dnbRbAPFnLbF1pBQSkYECmTSdYh66BtvnWCH5Lk-Exddo57Dkf-Z59bNLVPj_/pubhtml?gid=0&single=true>
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
