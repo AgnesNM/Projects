@@ -36,6 +36,42 @@ In the meantime, my goal is to study some Atlassian Forge use cases and build so
 | Set up an Atlassian cloud developer site |
 |Next steps |
 
+
+| Part 1: Build a Jira hello world app | 
+| ----------- |
+| Before you begin	 |
+| Create your app	 |
+| Change the panel title |
+| Install your app |
+| View your app |
+| Deploy app changes |
+| Jira issues |
+| Forge use cases |
+
+| Part 2: Call a Jira API | 
+| ----------- |
+| Make an API call |
+| Permissions	 |
+| Test your app |
+| Tunneling |
+
+| Part 3: Change the front end with the UI kit | 
+| ----------- |
+| Modify the user interface |
+| Close the tunnel and deploy the app	 |
+| Check the logs |
+| View your app in the developer console |
+
+| Extra resources | 
+| ----------- |
+| Tutorials |
+| Example apps	 |
+| Manifest |
+| Example apps |
+| Promote an app to staging or production |
+| Build a custom UI app in Jira |
+
+
 ## Project 2 - Learning Python
 
 I am following a Udemy course as a Python refresher. 
