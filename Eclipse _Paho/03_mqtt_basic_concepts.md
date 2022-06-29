@@ -60,3 +60,5 @@ The broker will receive the message and topic from the publisher and only send i
 The news station will not receive the message because it is not subscribed to the ‘sensor1/altitude’ topic. The flying is a private event. The news station could be subscribed to another topic though, ‘sensor1/emergency’, and would only receive a message if there was an accident and Richard and Per’s flying had been made known to the public.
 
 With that out of the way, then it will be easier for us to work with the MQTT protocol and the Paho Python MQTT Client.
+
+[How to Install the Python MQTT Client](/Eclipse%20_Paho/04_how_to_install_the_python_%20mqtt_client.md)
