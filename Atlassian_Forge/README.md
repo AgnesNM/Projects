@@ -55,3 +55,7 @@
 | Example apps |
 | Promote an app to staging or production |
 | Build a custom UI app in Jira |
+
+
+#### My Two Cents
+My key takeaways during Forge Installation

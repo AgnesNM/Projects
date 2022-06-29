@@ -1,7 +1,7 @@
 # My Two Cents 
 
 When installing and Learning about Atlassian Forge, I went through some curveballs. 
-
+****
 * Understanding that Forge is not a language. It is an Atlassian tool that is meant to add functionality to Atlassian Products, for example, Jira.
 * Installing npm packages globally resulted in write access errors
 * My Linux Ubuntu Node.js version could not work with the Forge CLI. The Erbium stable version 12.22.11 ended up working.
