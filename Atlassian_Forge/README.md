@@ -57,5 +57,8 @@
 | Build a custom UI app in Jira |
 
 
-#### My Two Cents
+#### [My Two Centa](/Atlassian_Forge/my_two_cents.md)
+
 My key takeaways during Forge Installation
+
+
