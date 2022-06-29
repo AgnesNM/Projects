@@ -1,4 +1,4 @@
-# The Eclipse Paho Project
+# 1. The Eclipse Paho Project
 
 The Eclipse Paho project is one of the implementations of the MQTT protocol by the Eclipse Foundation (the organization behind popular open-source tools like the Eclipse IDE, and Jarkata EE)
 
@@ -50,5 +50,5 @@ This feature means that when the publisher requests the broker to send messages 
 
 Before looking at some paho mqtt examples, let’s understand MQTT’s origins and some basic concepts.
 
-2. [MQTT Origins](/Eclipse%20_Paho/02_mqtt_origins.md)
+# 2.[MQTT Origins](/Eclipse%20_Paho/02_mqtt_origins.md)
 

@@ -1,4 +1,4 @@
-# MQTT Basic Concepts
+# 3. MQTT Basic Concepts
 
 It’s important to understand some MQTT basic concepts before you begin working with the paho mqtt examples. Let’s delve into them below:
 
@@ -49,7 +49,7 @@ The Raspberry Pi 3 board in the sensor will send out altitude information to var
 
 The following diagram might make things even clearer:
 
-[The publish-subscribe model](/Eclipse%20_Paho/pub-sub.png)
+![The publish-subscribe model](/Eclipse%20_Paho/pub-sub.png)
 
 The altitude sensor with the Raspberry Pi 3 board is the publisher (sensor1). It sends out messages to subscribers which could be anything from an Android tablet or iOS smartphone to a walkie-talkie in Richard’s or Per’s hand.
 
@@ -61,4 +61,4 @@ The news station will not receive the message because it is not subscribed to th
 
 With that out of the way, then it will be easier for us to work with the MQTT protocol and the Paho Python MQTT Client.
 
-[How to Install the Python MQTT Client](/Eclipse%20_Paho/04_how_to_install_the_python_%20mqtt_client.md)
+# 4. [How to Install the Python MQTT Client](/Eclipse%20_Paho/04_how_to_install_the_python_%20mqtt_client.md)
