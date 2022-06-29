@@ -17,11 +17,15 @@ As we went along, we actually realized we could work towards participating in th
 In the meantime, my goal is to study some Atlassian Forge use cases and build something with Forge
 
 
-## Project 2 - Learning Python
+#### Project 2 - Learning Python
 
 I am following a Udemy course as a Python refresher. 
 
 <https://docs.google.com/spreadsheets/d/e/2PACX-1vSkAMVPFPJYULv9RT0dnbRbAPFnLbF1pBQSkYECmTSdYh66BtvnWCH5Lk-Exddo57Dkf-Z59bNLVPj_/pubhtml?gid=0&single=true>
+
+#### Project 3 - [How to Set Up MQTT with Eclipse Paho Python](/Eclipse%20_Paho/README.md)
+
+This was a piece I wrote as part of practising tech writing.
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
