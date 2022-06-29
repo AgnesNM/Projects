@@ -6,4 +6,4 @@ MQTT works very similarly to the HTTP/HTTPS protocol (where a client sends in a 
 
 MQTT was created by Andy Stanford-Clark (IBM) and Arlen Nipper (CTO at Cirrus Link) in 1999. It is now an OASIS standard, with v3.1.1 being an older ISO standard as well. Version 5 is the latest [MQTT specification](https://mqtt.org/mqtt-specification/)
 
-# 3.[MQTT Basic Concepts](/Eclipse%20_Paho/03_mqtt_basic_concepts.md)
+# 3. [MQTT Basic Concepts](/Eclipse%20_Paho/03_mqtt_basic_concepts.md)

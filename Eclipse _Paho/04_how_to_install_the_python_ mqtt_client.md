@@ -1,4 +1,4 @@
-# How to Install the Python MQTT Client
+# 4. How to Install the Python MQTT Client
 
 There are several ways to install the Eclipse Paho Python MQTT Client.
 
