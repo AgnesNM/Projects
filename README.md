@@ -6,7 +6,7 @@ This is a repo of projects that I want to work on. They will be coding projects 
 #### 31st May 2022
 
 
-#### Project 1 - [Atlassian Forge](README.md)
+#### Project 1 - [Atlassian Forge](/Atlassian_Forge/README.md)
 
 I got interested in learning Forge because I wanted to have developers around where I live hanging out to code. 
 
