@@ -56,3 +56,8 @@ For our illustration, we will use Linux Ubuntu 20.04
 
 - Confirm that the Mosquitto server is listening via the default port: 1883
 
+        *netstat -an | grep 1883*
+
+![mosquitto server port](/Eclipse_Paho/broker.png)
+
+# 6. [How to Publish Messages](/Eclipse_Paho/06_how_to_publish_messages.md)
