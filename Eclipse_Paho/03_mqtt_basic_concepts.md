@@ -61,4 +61,4 @@ The news station will not receive the message because it is not subscribed to th
 
 With that out of the way, then it will be easier for us to work with the MQTT protocol and the Paho Python MQTT Client.
 
-# 4. [How to Install the Python MQTT Client](/Eclipse%20_Paho/04_how_to_install_the_python_%20mqtt_client.md)
+# 4. [How to Install the Python MQTT Client](/Eclipse_Paho/04_how_to_install_the_python_%20mqtt_client.md)
