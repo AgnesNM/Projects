@@ -13,8 +13,8 @@ No matter the MQTT use case, data needs to be exchanged between and among device
 #### 2. [MQTT Origins](/Eclipse%20_Paho/02_mqtt_origins.md)
 #### 3. [MQTT Basic Concepts](/Eclipse%20_Paho/03_mqtt_basic_concepts.md)
 #### 4. [How to Install the Python MQTT Client](/Eclipse%20_Paho/04_how_to_install_the_python_%20mqtt_client.md)
-#### 5. How to Connect to a Python MQTT Broker
-#### 6. How to Publish Messages
+#### 5. [How to Connect to a Python MQTT Broker](/Eclipse_Paho/05_how_to_connect_to_a_python_mqtt_broker.md)
+#### 6. [How to Publish Messages](/Eclipse_Paho/06_how_to_publish_messages.md)
 #### 7. How to Subscribe to Topics
 #### 8. How to Disconnect from the Broker
 #### 9. How to Unsubscribe from a Topic
