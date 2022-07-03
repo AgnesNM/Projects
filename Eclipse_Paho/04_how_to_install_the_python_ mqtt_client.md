@@ -9,7 +9,7 @@ Pip is Python’s package manager (Package Installer for Python in full)
 Go to your terminal (Ctrl+Alt+T on Ubuntu) and enter the following command:
 **pip install paho-mqtt*
 
-![pip install paho-mqtt](/Eclipse%20_Paho/pip%20install.png)
+![pip install paho-mqtt](/Eclipse_Paho/pub-sub.png)
 
 You should see a ‘successfully installed’ message.
 
