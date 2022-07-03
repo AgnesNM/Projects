@@ -49,7 +49,7 @@ The Raspberry Pi 3 board in the sensor will send out altitude information to var
 
 The following diagram might make things even clearer:
 
-![The publish-subscribe model](/Eclipse%20_Paho/pub-sub.png "Image source: “MQTT Essentials - A Lightweight IoT Protocol” by Gaston C. Hillar")
+![The publish-subscribe model](/Eclipse_Paho/pub-sub.png "Image source: “MQTT Essentials - A Lightweight IoT Protocol” by Gaston C. Hillar")
 
 The altitude sensor with the Raspberry Pi 3 board is the publisher (sensor1). It sends out messages to subscribers which could be anything from an Android tablet or iOS smartphone to a walkie-talkie in Richard’s or Per’s hand.
 

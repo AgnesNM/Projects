@@ -9,7 +9,7 @@ Pip is Python’s package manager (Package Installer for Python in full)
 Go to your terminal (Ctrl+Alt+T on Ubuntu) and enter the following command:
 *pip install paho-mqtt*
 
-![pip install paho-mqtt](/Eclipse_Paho/pip%20install.png)
+[pip install paho-mqtt](/Eclipse_Paho/pip%20install.png)
 
 You should see a ‘successfully installed’ message.
 
@@ -21,7 +21,7 @@ You need to check the version to which Paho MQTT is attached if you have several
 
 *pip –version*
 
-![pip version](/Eclipse_Paho/pip%20version.png)
+[pip version](/Eclipse_Paho/pip%20version.png)
 
 In my case, it was installed under Python 3.9. I will make a mental note of this when running Python paho-mqtt. I may have to specify the Python version for it to run as intended.
 
