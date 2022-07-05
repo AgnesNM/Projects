@@ -20,7 +20,7 @@ For our illustration, we will use Linux Ubuntu 20.04
 
 - Enter the following command to install the Mosquitto MQTT broker
 
-        *sudo apt-add-repository ppa:mosquitto-dev/mosquitto-ppa*
+        sudo apt-add-repository ppa:mosquitto-dev/mosquitto-ppa
 
 - Enter your password
 
@@ -32,7 +32,7 @@ For our illustration, we will use Linux Ubuntu 20.04
 
 - Install the Ubuntu broker package 
 
-        *sudo apt-get install mosquitto*
+        sudo apt-get install mosquitto
 
 - Follow the prompts as in the screenshot below:
 
@@ -44,7 +44,7 @@ For our illustration, we will use Linux Ubuntu 20.04
 
 - Install the Mosquitto client packages that run the message publication commands and topic subscription via the following command:
 
-        *sudo apt-get install mosquitto-clients*
+        sudo apt-get install mosquitto-clients
 
 - Check the recently installed mosquitto service status
 
@@ -56,7 +56,7 @@ For our illustration, we will use Linux Ubuntu 20.04
 
 - Confirm that the Mosquitto server is listening via the default port: 1883
 
-        *netstat -an | grep 1883*
+        netstat -an | grep 1883
 
 ![mosquitto server port](/Eclipse_Paho/broker.png)
 

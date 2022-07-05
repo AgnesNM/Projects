@@ -67,7 +67,7 @@ The PINGREQ and PINGRES control packet show us that the server/connection is sti
 
 The last line in our script, client.disconnect() will disconnect the publisher from the broker.
 
-# 7. [How to Subscribe to Topics](/07_how_to_subscribe_to_topics.md)
+# 7. [How to Subscribe to Topics](/Eclipse_Paho/07_how_to_subscribe_to_topics.md)
 
 
 

@@ -64,12 +64,4 @@ _
 - The last line in our script, **client.disconnect()** will disconnect the publisher from the broker.
 
 
-# 8. [How to Disconnect from the Broker](/08_how_to_disconnect_from_the_broker.md)
-
-
-
-
-
-
-
-
+# 8. [How to Disconnect from the Broker](Eclipse_Paho/08_how_to_disconnect_from_the_broker.md)
