@@ -37,21 +37,21 @@ _
 
 - Once we have the script, we need to ensure that our Mosquitto Broker is running. 
 
-        *sudo service mosquitto status*
+        sudo service mosquitto status
 
 ![mosquitto broker status](/Eclipse_Paho/broker%203.png)
 
 - Mosquitto starts automatically after installation. We can stop it by 
-        *sudo service  mosquitto stop*
+                sudo service  mosquitto stop
 
 - We can then restart it in the folder containing our mqtt client script.
-        *mosquitto -v*
+                mosquitto -v
 
 - Once we are sure that our broker is running, enter the following subscriber client command
-        *mosquitto_sub -t sensors/sensor01/altitude*
+                mosquitto_sub -t sensors/sensor01/altitude
 
 - On our terminal, run the script:
-        *python3 publisher.py*
+                python3 publisher.py
 
 
 ![mosquitto broker restart](/Eclipse_Paho/publisher1.png)
@@ -65,14 +65,6 @@ The PINGREQ and PINGRES control packet show us that the server/connection is sti
 
 *Hello World from paho-mqtt* should be printed on the console. 
 
-The last line in our script, client.disconnect() will disconnect the publisher from the broker.
+The last line in our script, **client.disconnect()** will disconnect the publisher from the broker.
 
 # 7. [How to Subscribe to Topics](/Eclipse_Paho/07_how_to_subscribe_to_topics.md)
-
-
-
-
-
-
-
-

@@ -48,7 +48,7 @@ For our illustration, we will use Linux Ubuntu 20.04
 
 - Check the recently installed mosquitto service status
 
-        *sudo service mosquitto status*
+        sudo service mosquitto status
 
 - You should see a message like… ‘starting MQTT Broker…’ as in the below screenshot:
 

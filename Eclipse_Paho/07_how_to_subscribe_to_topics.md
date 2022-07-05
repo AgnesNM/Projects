@@ -8,6 +8,8 @@ The following python mqtt example shows a sample script to to subscribe to topic
 
 ![subscriber script](/Eclipse_Paho/Subscriber%20Script.png)
 
+You can also find the script here: [publisher script](/subscriber.py) 
+
 - We would need to import the mqtt paho client.
 
 - And the sys module.
@@ -38,18 +40,18 @@ _
 
 - Once we have the script, we need to ensure that our Mosquitto Broker is running. 
 
-        *sudo service mosquitto status* 
+                sudo service mosquitto status
 
 ![mosquitto broker status](/Eclipse_Paho/broker%203.png)
 
 - Mosquitto starts automatically after installation. We can stop it by 
-        *sudo service  mosquitto stop*
+                sudo service  mosquitto stop
 
 - We can then restart it in the folder containing our mqtt client script.
-        *mosquitto -v*
+                mosquitto -v
 
 - On our terminal, run the script:
-        *python3 subscriber.py*
+                python3 subscriber.py
 
 ![mosquitto broker restart](/Eclipse_Paho/subscriber.png)
 
