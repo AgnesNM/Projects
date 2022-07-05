@@ -10,7 +10,7 @@ The sensor number will be replaced by the specific sensor number, for example, s
 
 The following python mqtt example shows a sample script to send out messages via the sensor:
 
-![publisher screenshot](/Publisher%20Screenshot.png)
+![publisher screenshot](/Eclipse_Paho/Publisher%20Screenshot.png)
 
 You can also find the script here: [publisher script](/publisher.py) 
 
@@ -36,7 +36,7 @@ You can also find the script here: [publisher script](/publisher.py)
 
     *sudo service mosquitto status*
 
-![mosquitto broker status](/broker%203.png)
+![mosquitto broker status](/Eclipse_Paho/broker%203.png)
 
 - Mosquitto starts automatically after installation. We can stop it by 
     *sudo service  mosquitto stop*
@@ -47,14 +47,14 @@ You can also find the script here: [publisher script](/publisher.py)
 - On our terminal, run the script:
     *python3 publisher.py*
 
-![mosquitto broker restart](/publisher1.png)
+![mosquitto broker restart](/Eclipse_Paho/publisher1.png)
 
 The broker starts and runs on port 1883. The broker sends a CONNACK control packet showing that it is successfully connected to the client (we can assume that this is our Raspberry Pi in this case)
 
 We can also see that our topic *sensors/sensor01/altitude* is published with our QoS as zero.
 The PINGREQ and PINGRES control packet show us that the server/connection is still alive.
 
-![run publisher script](/Hello%20World%20Publisher.png)
+![run publisher script](/Eclipse_Paho/Hello%20World%20Publisher.png)
 
 *Hello World from paho-mqtt* should be printed on the console. 
 
