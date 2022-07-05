@@ -42,16 +42,16 @@ _
 ![mosquitto broker status](/Eclipse_Paho/broker%203.png)
 
 - Mosquitto starts automatically after installation. We can stop it by 
-                sudo service  mosquitto stop
+        sudo service  mosquitto stop
 
 - We can then restart it in the folder containing our mqtt client script.
-                mosquitto -v
+        mosquitto -v
 
 - Once we are sure that our broker is running, enter the following subscriber client command
-                mosquitto_sub -t sensors/sensor01/altitude
+        mosquitto_sub -t sensors/sensor01/altitude
 
 - On our terminal, run the script:
-                python3 publisher.py
+        python3 publisher.py
 
 
 ![mosquitto broker restart](/Eclipse_Paho/publisher1.png)
