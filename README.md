@@ -23,7 +23,7 @@ I am following a Udemy course as a Python refresher.
 
 <https://docs.google.com/spreadsheets/d/e/2PACX-1vSkAMVPFPJYULv9RT0dnbRbAPFnLbF1pBQSkYECmTSdYh66BtvnWCH5Lk-Exddo57Dkf-Z59bNLVPj_/pubhtml?gid=0&single=true>
 
-#### Project 3 - [How to Set Up MQTT with Eclipse Paho Python](/Eclipse%20_Paho/README.md)
+#### Project 3 - [How to Set Up MQTT with Eclipse Paho Python](/Eclipse_Paho/README.md)
 
 This was a piece I wrote as part of practising tech writing.
 
