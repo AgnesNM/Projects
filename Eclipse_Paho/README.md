@@ -18,7 +18,7 @@ No matter the MQTT use case, data needs to be exchanged between and among device
 #### 7. [How to Subscribe to Topics](/Eclipse_Paho/07_how_to_subscribe_to_topics.md)
 #### 8. [How to Disconnect from the Broker](/Eclipse_Paho/08_how_to_disconnect_from_the_broker.md)
 #### 9. [How to Unsubscribe to a Topic](/Eclipse_Paho/09_how_to_unsubscribe_from_a%20_topic.md)
-#### 10. Securing the Broker Using SSL/TLS
+#### 10. [Securing the Broker Using SSL/TLS](/Eclipse_Paho/10_securing_the_broker.md)
 #### 11. A Word on Troubleshooting
 #### 12. In Conclusion
 
