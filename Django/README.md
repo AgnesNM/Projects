@@ -8,7 +8,7 @@ Here are some gotchas, or notes to self that you are likely to miss as a Django 
 
 2. When defining your url path in your urls.py (project directory), don't add a slash to represent the home page, an empty string will do. Also, don't add an extra space.
 
-![urls.py](/Views.png)
+![urls.py](/Django/Views.png)
 
 
 
